@@ -1,0 +1,28 @@
+geekhub:
+  cookies:
+    _session_id:
+appletuan:
+  cookies:
+    _session_id:
+ld246:
+  user:
+    username:
+    password:
+v2ex:
+  cookies:
+    PB3_SESSION:
+    A2:
+cron:
+  geekhub:
+  appletuan:
+  ld246:
+  v2ex:
+mail:
+  enabled: false
+  host: "smtp.qq.com"
+  protocol: "smtp"
+  port: 465
+  username:
+  password:
+  fromName: "auto-sign"
+  to:
